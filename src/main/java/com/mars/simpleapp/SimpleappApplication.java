@@ -15,6 +15,6 @@ public class SimpleappApplication {
 
 	@GetMapping("/")
 	public String welcome() {
-		return "Helloooo";
+		return "Helloooo Updated";
 	}
 }
